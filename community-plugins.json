@@ -9672,5 +9672,12 @@
     "author": "Adi Ron",
     "description": "Copies the contents of files or selections within to the clipboard, without internal links",
     "repo": "adiron/obsidian-strip-internal-links"
+  },
+  {
+    "id": "french-typos",
+    "name": "French Typos",
+    "author": "Thierry Crouzet",
+    "description": "Automatic typographic apostrophe, French quotation marks and more",
+    "repo": "tcrouzet/obsidian-french-typos"
   }
 ]
