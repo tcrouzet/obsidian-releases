@@ -12656,5 +12656,13 @@
         "author": "imfenghuang",
         "description": "Animating code blocks with markdown and code syntax highlighting with beautiful themes.",
         "repo": "imfenghuang/obsidian-magic-move"
+    },
+    {
+	"id": "folder-fusion",
+	"name": "Folder Fusion",
+	"author": "Thierry Crouzet",
+	"description": "Compile complete folder hierarchy in one file",
+	"repo": "tcrouzet/obsidian-folder-fusion"
     }
+	
 ]
